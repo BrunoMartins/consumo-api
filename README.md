@@ -1,7 +1,7 @@
 <h1>Vidflow</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em consumo de API.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em consumo de API para inserção e pesquisa de videos.</p>
 
 ## 🚀 Tecnologias
 <div>
