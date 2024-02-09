@@ -1,7 +1,10 @@
 <h1>Vidflow</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em consumo de API para inserção e pesquisa de videos.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, com foco em consumo de API para inserção e pesquisa de videos.
+É necessário utilziar o json-server para funcionamento correto da aplicação</p>
+
+[Acessar a página]( https://brunomartins.github.io/consumo-api/)
 
 ## 🚀 Tecnologias
 <div>
